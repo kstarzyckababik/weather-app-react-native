@@ -1,8 +1,4 @@
-Aplikacja Pogodowa (Weather App)
-
-Aplikacja pogodowa stworzona w React Native. Umożliwia użytkownikowi sprawdzenie pogody w dowolnym mieście na podstawie jego nazwy lub bieżącej lokalizacji. Aplikacja korzysta z OpenWeatherMap API do pobierania danych pogodowych.
-
-🌤️ Aplikacja Pogodowa (Weather App)
+🌤️ **Aplikacja Pogodowa (Weather App)**
 
 Aplikacja pogodowa stworzona w React Native. Umożliwia użytkownikowi sprawdzenie pogody w dowolnym mieście na podstawie jego nazwy lub bieżącej lokalizacji. Aplikacja korzysta z OpenWeatherMap API do pobierania danych pogodowych.
 
