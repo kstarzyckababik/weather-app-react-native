@@ -12,7 +12,15 @@ Funkcje:
 Technologie: React Native, Expo Location API do pobierania lokalizacji użytkownika ,AsyncStorage do przechowywania historii wyszukiwań, OpenWeatherMap API do pobierania danych pogodowych, Debouncing w celu optymalizacji wyszukiwania miast
 
 
-![Web Screenshot](./Screenshots/web1.png)(./Screenshots/web2.png)(./Screenshots/web3.png)(./Screenshots/web4.png)
+
+## 📸 Screenshots
+
+### 🌐 Web
+![Web Screenshot](./Screenshots/web1.png) ![Web Screenshot](./Screenshots/web2.png) ![Web Screenshot](./Screenshots/web3.png) ![Web Screenshot](./Screenshots/web4.png)
+
+### 📱 iOS (Expo Go) 
+![iOS Screenshot](./Screenshots/ios1.png) ![iOS Screenshot](./Screenshots/ios2.png) ![iOS Screenshot](./Screenshots/ios3.png) ![iOS Screenshot](./Screenshots/ios4.png) 
+
 
 
 
