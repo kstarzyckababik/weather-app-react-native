@@ -48,7 +48,7 @@ Aplikacja pogodowa stworzona w React Native. Umożliwia użytkownikowi sprawdzen
 
 1. Sklonuj repozytorium:
 ```
-git clone (https://github.com/kstarzyckababik/weather-app-react-native.git)
+git clone https://github.com/kstarzyckababik/weather-app-react-native.git
 cd todo-app-react-native  
 npm install  
 npm start
