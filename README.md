@@ -34,8 +34,8 @@ Aplikacja pogodowa stworzona w React Native. Umożliwia użytkownikowi sprawdzen
 
 ## 📸 Screenshots
 
-### 🌐 Web
-![Web Screenshot](./Screenshots/web1.png) ![Web Screenshot](./Screenshots/web2.png) ![Web Screenshot](./Screenshots/web3.png) ![Web Screenshot](./Screenshots/web4.png)
+
+<img src="./Screenshots/web1.png" width="50" height="100">
 
 ### 📱 iOS (Expo Go)
 ![iOS Screenshot](./Screenshots/ios1.png) ![iOS Screenshot](./Screenshots/ios2.png) ![iOS Screenshot](./Screenshots/ios3.png) ![iOS Screenshot](./Screenshots/ios4.png) 
