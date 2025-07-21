@@ -33,12 +33,13 @@ Aplikacja pogodowa stworzona w React Native. Umożliwia użytkownikowi sprawdzen
 ---
 
 ## 📸 Screenshots
-###🌐 Web
+
+### 🌐 Web
 
 <img src="./Screenshots/web1.png" width="200" height="300"> <img src="./Screenshots/web2.png" width="200" height="300"> <img src="./Screenshots/web3.png" width="200" height="300"> <img src="./Screenshots/web4.png" width="200" height="300">
 
 ### 📱 iOS (Expo Go)
-<img src="./Screenshots/ios1.png" width="200" height="300"> <img src="./Screenshots/ios2.png" width="200" height="300"> <img src="./Screenshots/ios3.png" width="200" height="300"> <img src="./Screenshots/ios4.png" width="200" height="300">
+<img src="./Screenshots/ios1.png" width="150" height="300"> <img src="./Screenshots/ios2.png" width="150" height="300"> <img src="./Screenshots/ios3.png" width="150" height="300"> <img src="./Screenshots/ios4.png" width="150" height="300">
 
 
 
